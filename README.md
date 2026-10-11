@@ -1,1 +1,1 @@
-# ecommerce-data-engineering-pipeline
+# ecommerce-data-engineering-project
